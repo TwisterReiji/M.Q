@@ -1,0 +1,45 @@
+.trangchu{
+    width:800px;
+    margin: auto;
+    text-align: center;
+}
+.trangchu .head{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    margin-bottom: -40px;
+}
+.trangchu .body{
+    background-color: grey; 
+    font-size: 50px; 
+}
+.trangchu .body .thongbao{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;  
+}
+.trangchu .body .nhap{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.trangchu .body .nhap .box input{
+    text-align: center;
+    padding: 20px 120px;
+    font-size: 50%;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.trangchu .body .nhap .quayso button{
+    padding: 20px 20px;
+    font-size: 50%;
+    border-radius: 10px;
+}
+.trangchu .body .nhap .quayso :hover{
+    color: orange;  
+}
+
+
+
+
+
